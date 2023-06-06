@@ -1,0 +1,11 @@
+.tbl {
+    width: 100%;
+    margin: 2rem;
+}
+
+
+@media screen and (max-width: 650px) {
+    .btn_action button{
+        margin-top: 1rem;
+    }
+}
